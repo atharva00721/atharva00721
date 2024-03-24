@@ -44,16 +44,16 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atharvarajthakur/" target="_blank">
-  <img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://twitter.com/iwillstealyourk" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=twitter" />
  </a>
  <a href="https://www.instagram.com/atharvarajthakur/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://skillicons.dev/icons?i=instagram" alt="alsiam" />
  </a>  
 </p>
 <br />
