@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b>atharva00721</b>
+                <b>Atharva</b>
         </samp>
 </h3>
 
