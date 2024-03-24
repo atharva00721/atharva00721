@@ -119,3 +119,4 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" />
   </a>
 </p>
+</div>
