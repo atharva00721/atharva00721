@@ -1,11 +1,17 @@
 Hi, I'm Atharva 👋
 
-i'm a full stack and blockchain dev from india. i love building cool stuff like web apps, games, smart contracts and bots. been in the dev space for 5+ years working on everything from defi and nfts to ai tools and automation.
+i'm a fullstack dev from india with a thing for cool animations and ai agentic systems. been coding for about 2 years and love building stuff that looks smooth and works smart.
 
-i work a lot with typescript, nextjs, express, prisma and node on the backend. also super comfortable with solidity and solana dev using rust and anchor. i've made discord bots, telegram mini apps and ai agents that talk to blockchain in plain english.
+i mainly work with nextjs, typescript, react, and node. also mess around with GSAP for animations, framer for interactions, and elysiajs for backend stuff. always trying to make things feel buttery smooth.
 
-hackathons are a big part of my story. won ethindia twice and unfold once. i enjoy building fast, testing ideas and shipping weird stuff that actually works.
+got into ai agents recently and it's been wild - building systems that can actually think and do stuff autonomously. the intersection of great UX and smart automation is where i live.
 
-some of my open source projects are down below if you wanna check them out. always open to collab or jam on something fun.
+won 6 hackathons so far which has been pretty fun. love the energy of building something cool in 48 hours and seeing if it actually works.
 
-thanks for dropping by 🌱
+check out some stuff i've built:
+- [lost letters](https://lostletters.arvie.tech/) 
+- [presently pro](https://presntlypro.vercel.app/)
+
+always down to collab on something interesting or just chat about animations, ai, or whatever cool tech you're working on.
+
+thanks for stopping by 🌱
