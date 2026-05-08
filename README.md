@@ -11,7 +11,7 @@ won 6 hackathons so far which has been pretty fun. love the energy of building s
 check out some stuff i've built:
 - [Mimick Me](https://www.mimick.me/)
 - [Codebased](https://codebased-v2.vercel.app/)
-- [presently pro](https://presntlypro.vercel.app/)
+- [Presently](https://presntlypro.vercel.app/)
 
 always down to collab on something interesting or just chat about animations, ai, or whatever cool tech you're working on.
 
