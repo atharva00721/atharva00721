@@ -9,7 +9,8 @@ got into ai agents recently and it's been wild - building systems that can actua
 won 6 hackathons so far which has been pretty fun. love the energy of building something cool in 48 hours and seeing if it actually works.
 
 check out some stuff i've built:
-- [lost letters](https://lostletters.arvie.tech/) 
+- [Mimick Me](https://www.mimick.me/)
+- [Codebased](https://codebased-v2.vercel.app/)
 - [presently pro](https://presntlypro.vercel.app/)
 
 always down to collab on something interesting or just chat about animations, ai, or whatever cool tech you're working on.
